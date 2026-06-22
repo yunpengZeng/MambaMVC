@@ -23,7 +23,7 @@ warnings.filterwarnings("ignore")
 # Caltech-4V
 # Caltech-5V
 # YTF10
-Dataname = "Caltech-5V"
+Dataname = "synthetic3d"
 parser = argparse.ArgumentParser(description='train')
 parser.add_argument('--dataset', default=Dataname)
 parser.add_argument('--data_path', default="./data")  # 数据存放位置
