@@ -10,6 +10,7 @@ If you have any questions, please don't hesitate to contact Yunpeng Zeng via yun
 
 If you find this work useful, please cite:
 
+```
 @article{zeng2026mambamvc,
   title={MambaMVC: Learning State Space Model Enhanced Representation for Contrastive Multi-View Clustering},
   author={Zeng, Yunpeng and Song, Peng},
@@ -18,4 +19,7 @@ If you find this work useful, please cite:
   year={2026},
   publisher={Elsevier}
 }
+
+
+```
 
